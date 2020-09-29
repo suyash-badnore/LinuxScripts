@@ -1,14 +1,3 @@
-ls
-ls -lrt
-cd Fd
-ls
-cd .
-cd ..
-cat task8.sh
-cat task1.sh
-cat task2.sh
-cat task.sh
-cat task1.sh
 cat task8.sh
 vi task.sh
 ./task8.sh
@@ -998,3 +987,14 @@ git init
 git remote add origin https://github.com/suyash-badnore/Testi.git
 git remote -v
 exit
+cd Test3
+cd Task3
+ls
+git init
+git remote -v
+git add remote origin https://github.com/suyash-badnore/LinuxTest.git
+git remote add origin https://github.com/suyash-badnore/LinuxTest.git
+git remote -v
+git add .
+git commit -m "commit done "
+git push origin master
