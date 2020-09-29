@@ -1,74 +1,3 @@
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-cd SHFiles
-ls
-task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task4.sh
-chmod u+x task4.sh
-./task4.sh
-vi task4.sh
-./task4.sh
-vi task4.sh
-./task4.sh
-vi task5.sh
-chmod u+x task5.sh
-./task5.sh
-clear
-vi task6.sh
-vi numbers.txt
-chmod u+x task6.sh
-./task6.sh
-vi numbers.txt
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task7.sh
-vi input.txt
-chmod u+x task7.sh
-./task7.sh
-vi input.txt
-./task7.sh
-vi input.txt
-vi task7.sh
-cd SHFiles
-cat task2.sh
-man awk
-cd SHFiles
-vi task7.sh
-vi task6.sh
-cat numbers.txt
-./task6.sh
-vi numbers.txt
-./task6.sh
-vi task6.sh
-vi task7.sh
-vi task6.sh
-vi task8.sh
-chmod u+x task8.sh
-./task8.sh
-cd SHFiles
 ls
 ls -lrt
 cd Fd
@@ -998,3 +927,74 @@ hostname -a
 cd
 hostname -a
 hostname -V
+crontab -l
+crontab -e
+history
+java
+man java
+man javac
+java -version
+clear
+git init
+git remote add origin https://github.com/suyash-badnore/LinuxTest.git
+git remote -v
+git add .
+git commit -m "first commit"
+git config --global user.email "suyashbadnore0004@gmail.com"
+git config --global user.name "suyash-badnore"
+git commit -m "first commit"
+git push origin master
+git push origin
+git push origin master
+clear
+ls
+cd Task3
+git init
+git remote add origin https://github.com/suyash-badnore/LinuxTest.git
+git remote -v
+git add .
+ls
+git commit -m "first commit"
+git push origin master
+git config --global user.name "suyash-badnore"
+git push origin master
+git config --global user.email "suyashbadnore0004@gmail.com"
+git push origin master
+git push --help
+clear
+cd
+ls
+cd SHFiles
+git init
+git remote add origin https://github.com/suyash-badnore/TestLinux.git
+git remote -v
+ls
+git add .
+git commit -m "first"
+git push origin master
+cd
+ls
+cd Task2
+ls
+cd
+cd Task3
+ls
+git init
+git remote add origin https://github.com/suyash-badnore/TestLinux.git
+git remote -v
+git add *
+git commit -m "firstone"
+git add .
+git commit -m "firstone"
+clear
+pwd
+git remote add origin https://github.com/suyash-badnore/TestLinux.git
+git add .
+git commit -m "firstone"
+git push origin
+clear
+ls
+git init
+git remote add origin https://github.com/suyash-badnore/Testi.git
+git remote -v
+exit
