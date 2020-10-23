@@ -1,1000 +1,1000 @@
-./task8.sh
-vi task8.sh
-./task8.sh
-444
-./task8.sh
-vi task8.sh
-./task8.sh
-vi task8.sh
-./task8.sh
-vi task8.sh
-echo 123 | wc -c
+./string.sh
+vi string.sh
+vi calci.sh
+chmod +x calci.sh
+sh calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+vi calci.sh
+./calci.sh
+ls
+ls -lrt
+chmod 777 string.sh
+ls -lrt
+chmod 700 string.sh
+ls -lrt
+chmod 100 string.sh
+ls -lrt
+./calci.sh
+./string.sh
+chmod 774 string.sh
+ls -lrt
+./string.sh
+exit
+who
+exit
+ls -lrt
+tty
+man tty
+write ka20118 "hi"
+write ka20118
+ls
+ls -1
+ls -R
+ls -i
+write ps20123
+write pp20145
+write ps20123
+ls -lrt
+ls -R
+man ls
+man cmd
+man command
+man command | grep
+man command | more
+apropos mk
+apropos mkd
+apropos mkdir
+man apropos
+apropos -d
+ls
+apropos -d example.sh
+hi
+write ps20123
+type ls
+type cd
+type set
+type write
+type cat
+type bash
+type sh
+man trap
+trap
+-ot
+ls
+example.sh -ot HelloWorld.java
+man -ot
+man -o
+man o
+man -ot
+echo example.sh -ot HelloWorld.java
+echo example.sh ot HelloWorld.java
+echo example.sh -ot HelloWorld.java
+history
+echo example.sh -ot HelloWorld.java
+ls
+man awk
+cd
+clear
+ls
+ls -l -d
+ls * 
+ls * | -d
+ls -lrt | grep "^"
+ls -lrt | grep "^d"
+grep october
+grep oct
+ls -lrt | grep "oct"
+ls -lrt | grep oct
+ls -lrt | grep "Oct"
+ls -lrt | grep "Oct" |wc -l
+grep "Oct" |wc -l
+ls -lrt | grep "Sep" |wc -l
+ls -lrt | grep "Aug"
+ls -lrt | grep "Sep"
+ls -lrt | grep "Aug"
+ls -lrt | grep "Oct"
+ls -lrt
+ls -lrt | grep "Sep"
+ls -lrt | grep "Sep"|wc -l
+ls -lrt | grep "Oct"|wc -l
+ls -lrt | grep ""|wc -l
+ls -lrt | grep "*"|wc -l
+ls -lrt | grep "sh"|wc -l
+man man
+cd
+clear
+mkdir Array
+ls
+cd Array
+ls
+vi basic.sh
+chmod +x basic.sh
+./basic.sh
+vi basic.sh
+./basic.sh
+vi basic.sh
+./basic.sh
+vi basic.sh
+./basic.sh
+vi basic.sh
+./basic.sh
+vi basic.sh
+./basic.sh
+ls
+cd ..
+ls
+history
+cd Array
+ls
+vi string.sh
+chmod u+x string.sh
+./atring.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi readvalue.sh
+cd ..
+man alias
+vi .bashrc
+source .bashrc
+ps -f
+kill 19726
+kill 29524
+ps -f
+ps -ef
+kill 21449
+kill 19726
+kill 3751
+kill 21449
+kill 19726
+kill 15938
+ps -ef
+a
+clear
+a
+vi .bashrc
+vi kill.sh
+chmod +x kill.sh
+./kill.sh
+clear
+vi string.sh
+cd Array
+ls
+vi string.sh
+./string.sh
 wq
-vi task8.sh
-wq
-./task8.sh
-vi task8.sh
-./task8.sh
-cd Task2
+vi string.sh
+./string.sh
+lswq
 ls
-rm demotext.txt
-ls
-cat demotext.txt
-cat demotext.txt.bak
-rm demotext.txt.bak
-cat demotext.txt.bak
-ls
-vi task1.sh
-./ task1.sh
-./task1.sh
-vi task2.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task4.sh
-./task4.sh
-ls
-clear
-ls
-rm task4.sh.bak
-ls
-vi task4.sh
-vi task5.sh
-./task5.sh
-vi task5.sh
-./task5.sh
-vi task5.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-vi task7.sh
-./task7.sh
-./task7.sh demo
-./task7.sh demo1
-./task7.sh task1.sh
-vi task7.sh
-vi task8.sh
-./task8.sh
-vi task8.sh
-vi task1.sh
-vi task2.sh
-vi task8.sh
-vi task9.sh
-vi task10.sh
-./task10.sh
-vi task10.sh
-./task10.sh
-vi task3.sh
-vi task2.sh
-vi task6.sh
-cd Task2
-ls
-history
-./task8.sh
-vi task8.sh
-vi task6.sh
-cd Task2
-ls
-history
-ls -lrt|grep ".sh"
-ls -lrt|grep "*task*"
-ls -lrt|grep "?task*"
-ls -lrt|grep "?task"
-ls -lrt|grep "task"
-ls -lrt|grep "task1"
-ls -lrt|grep "?."
-ls -lrt|grep "?.s"
-ls -lrt|grep "?.sh"
-ls -lrt|grep ".sh"
+vi readvalue.sh
+cat basic;
+cat basic.sh;
+vi readvalue.sh
+chmod +x readvalue.sh
+./readvalue.sh
+vi readvalue.sh
 cd
-vi comments.sh
-chmod u+c comments.sh
-chmod u+x comments.sh
-./comments.sh
-vi comments.sh
-./comments.sh
-vi comments.sh
-./comments.sh
-vi comments.sh
-./comments.sh
-man diff
-ls
-diff ojas.txt sample.txt
-cat ojas.txt
-cat sample.txt
-man diff
-man cat
-cd Task2
-./task6.sh
-vi task6.sh
-./task6.sh
-cd
-ls -lh /tmp
-history |grep crontab
-cd tmp
-cd /tmp
-ls
-cat baby
-clear
-ls
-cd
-cd Task2
-ls -lrt
-vi tak3.sh
-ls -lrt
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-le -lrt
-ls -lrt
-clear
-history
-vi task2.sh
-vi task11.sh
-chmod u+x task11.sh
-mkdir tmp
-cd tmp
-touch t1
-touch t2
-touch t3 t4 t5
-ls
-cd ..
-./task11.sh
-vi task11.sh
-ls
-./task11.sh
-pwd
-vi task11.sh
-./task11.sh
-vi task11.sh
-./task11.sh
-cd tmp
-ls
-touch t1 t2 t3 t4 t5 t6
-ls
-cd .
-./task11.sh
-vi task11.sh
-cd tmp
-ls
-touch t1 t2 t3 t4 t5 t6 t7
-ls
-cd ..
-./task11.sh
-cd tmp
-ls
-touch t1 t2 t3 t4 t5 t6 t7
-cd ..
-ls
-cat task2.sh
-cat task3.sh
-man xargs
-cal 1
-cal 1 2020
-cal 2
-clear
-ls -lrt
-./task3.sh
-vi task10.sh
-./task10.sh
-./task7.sh
-
-./task7.sh task3.sh
-./task7.sh task3.s
-vi task7.sh
-./task7.sh task3.s
-./task7.sh task3.sh
-./task7.sh demo
-vi task8.sh
-vi task11.sh
-ls
-cd tmp
-ls
-cd ..
-./task11.sh
-cd tmp
-ls
-cd ..
-vi task11.sh
-cd tmp
-touch t1 t2 t3 t4 t5
-ls
-cd ..
-./task11.sh
-cd tmp
-ls
-cd ..
-man crontab
-vi task1.sh
-./task1.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-echo "1234" |wc -c
-echo "123456" |wc -c
-echo "123456" |wc -l
-echo "123456" |wc -w
-man wc
-echo "123456" |wc -m
-man wc
-man cut
-man wc
-cat *
-clear
-grep "sh*" |ls
-ls|grep "*sh"
-grep sh *
-ls -lrt |grep "*sh"
-ls -lrt |grep "*sh*"
-ls -lrt =|grep "*sh*"
-ls -lrt|grep "*sh*"
-find task "*"|xargs grep 
-grep task *
-grep -f *
-ls -l |grep find . -name "?sh"
-ls -l | grep find . -name "?sh"
-ls -l | grep find . -name "?task.sh"
-ls -l | grep find . -name "task.sh"
-ls -l | grep find .-name "task.sh"
-ls -l | grep find . -name "task.sh"
-ls -lrt | grep sh*
-ls -lrt | grep "sh*"
-ls -lrt | grep "*sh*"
-find . -name "task*"
-find . -name "*"
-find . -name "task*"
-find . -name "task1*"
-find . -name "*sh*"
-ls -lrt|grep t*
-ls -lrt|grep "t*"
-ls -lrt|grep "task1*"
-ls -lrt|grep "?task1"
-ls -lrt|grep "task1.sh"
-ls -lrt|grep "task11.sh"
-ls -lrt|grep ".sh"
-ls
-mkdir Task3
-cd Task3
-vi task1.sh
-vi task2.sh
-chmod u+x task2.sh
-./task2.sh
-vi task2.sh
-./task2.sh
-vi task3.sh
-chmod u+x task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task3.sh
-./task3.sh
-vi task4.sh
-chmod u+x task4.sh
-./task4.sh
-vi task5.sh
-chmod u+x task5.sh
-./task5.sh
-vi task5.sh
-./task5.sh
-vi task5.sh
-./task5.sh
-vi task6.sh
-chmod u+x task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-man if
-man if else
-man if else then
-man elif
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-vi task6.sh
-./task6.sh
-ls
-vi task1.sh
-chmod u+x task1.sh
-./task1.sh
-ls
-./task1.sh
-vi task1.sh
-./task1.sh
-vi task1.sh
-./task1.sh
-vi task1.sh
-./task1.sh
-vi task1.sh
-./task1.sh
-ls
-cd
-ls
-vi expression.sh
-chmod u+x expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-man expr
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-man expr
 cd SHFiles
-cd
-cd Task2
 ls
-cd
-cd Task3
-ls
-cat task3.sh
+cat task1.sh
 cat task2.sh
-cd
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-vi expression.sh
-./expression.sh
-history
-cd Task3
-ls
-cd Task3
-ls
-cat task4.sh
 cat task3.sh
+cat task4.sh
 cat task5.sh
-vi task5.sh
-./task5.sh
+cat task6.sh
+cat task7.sh
+cat task8.sh
+lear
+cd
+clear
+cd Array
+ls
+vi readvalue.sh
+./readvalue.sh
+vi readvalue.sh
+./readvalue.sh
+vi readvalue.sh
+./readvalue.sh
+vi readvalue.sh
+./readvalue.sh
+vi readvalue.sh
+./readvalue.sh
+vi readvalue.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+ls
+vi readvalue.sh
+./readvalue.sh
+vi .bashrc
+ls
+cd ..
+vi .bashrc
+history
+
+source .bashrc
+top
+kill 26893
+top
+kill 26935
+top
+kill 26951
+ps -ef
+kill 26841
+ps -ef
+kill 26871
+top
+ps -ef
+kill 32129
+exit
+vi alias.sh
+chmod +x alias.sh
+./alias.sh
+vi alias.sh
+./alias.sh
+a
+vi alias.sh
+a
+./alias.sh
+vi alias.sh
+./alias.sh
+vi alias.sh
+./alias.sh
+vi alias.sh
+./alias.sh
+cd Array
+a
+cat basic.sh
+cat readvalue.sh
+ls
+tree
+vi readvalue.sh
+vi string.sh
+./string.sh
+tree
+ls
+vi numberposition.sh
+chmod +x numberposition.sh
+./numberposition.sh
+vi numberposition.sh
+./numberposition.sh
+vi numberposition.sh
+ls
+vi numberposition.sh
+vi string.sh
+vi ojas.txt
+cut -d "," -f ojas.txt
+cut -d "," -f 1-2 ojas.txt
+cut -d "," -f 1-3 ojas.txt
+cat ojas.txt
+cut -d "," -f 1-2 ojas.txt
+cut -d -f 1-2 ojas.txt
+cut -d "" -f 1-2 ojas.txt
+cut -d "" -f 1-3 ojas.txt
+cut -d "o" -f 1-3 ojas.txt
+man cut
+top
+kill 26738
+cd ..
 ls
 ls -lrt
-vi task5.sh
-vi task1.sh
-vi task6.sh
+./kill.sh
 clear
+history
+man tee
+cd Task2
 ls
+cat task1.sh
+{suyash:1}
+{suyash:1:1}
+suyash:1:1
+./task1.sh
+ls -lre
+ls -lrt
+cd femo
+cd demo
+ls
+cd ..
+cd tmp
+ls
+cd ..
 vi task1.sh
 ./task1.sh
-vi task2.sh
-./task2.sh
-vi task3.sh
-./task3.sh
-vi task4.sh
-./task4.sh
-vi task5.sh
-./task5.sh
+vi task1.sh
+cd ..
+ls
+mkdir practise
+ls
+ls -lrt
+cd practise
+ls
+;s
+ls -lrt
+vi strreverse.sh
+chmod +x strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+man rev
+cd ..
+rev
+ls -l
+rev
+cd practise
+ls
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+clear
+ls -lrt
+a
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+./strreverse.sh
+vi strreverse.sh
+suyash badnore | wc -w
+suyash badnore | wc -c
+suyash badnore | wc -w
+suyash badnore|wc -w
+suyash badnore| wc -w
+suyash badnore | wc -w
+echo suyash badnore | wc -w
+echo suyash badnore ojas hyderabad | wc -w
+ls
+./strreverse.sh
+cd ..
+cd Task2.sh
+cd Task2
+ls
+cat task6.sh
+cat task10.sh
+cat task11.sh
+ls
+cat task6.sh
 ./task6.sh
-vi task6.sh
+cd ..
+rev suyash
+ls
+a
+rev number.txt
+echo rev "suyash"
+rev "suyash"
+man rev
+cd Task2
+ls
+cat task6.sh
+cd ..
+man rev
+a
+cd practise
+a
+vi minmax.sh
+chmod +x minmax.sh
+./minmax.sh
+chmod +x minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+2
+1
+3
+1
+./minmax.sh
+1
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+vi minmax.sh
+./minmax.sh
+a
+cd practise
+a
+vi mailvalid.sh
+chmod +x mailvalid.sh
+./mailvalid.sh
+vi mailvalid.sh
+./mailvalid.sh
+vi mailvalid.sh
+./mailvalid.sh
+vi mailvalid.sh
+./mailvalid.sh
+vi mailvalid.sh
+sh -x mailvalid.sh
+vi mailvalid.sh
+sh -x mailvalid.sh
+vi mailvalid.sh
+sh -x mailvalid.sh
+sh -mailvalid.sh
+sh mailvalid.sh
+clear
+ls
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+sh -x mailvalid.sh
+vi mailvalid.sh
+sh -x mailvalid.sh
+clear
+sh -mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
 
-vi task5.sh
-vi task55.sh
-chmod u+x task55.sh
-./task55.sh
-cat task55.sh
-cd
-vi floating.sh
-chmod u+x floating.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+vi mailvalid.sh
+sh mailvalid.sh
+cat mailvalid.sh
+exit
+cd practise
+c ..
+cd ..
+mv practise practice
+ls
+cd practice
+ls
+vi mobile1.sh
+chmod +x mobile1.sh
+sh mobile1.sh
+vi mobile1.sh
+sh mobile1.sh
+vi mobile1.sh
+sh mobile1.sh
+vi mobile1.sh
+a
+cd ..
+cd Array
+ls
+cat basic.sh
+a
+cd ..
+vi .bashrc
+source .bashrc
+ls -lrrt
+a
+ls
+cd practise
+ls
+cat minmax.sh
+sh minmax.sh
+vi minmax.sh
+vi string.sh
+ls
+vi strreverse.sh
+ls
+a
+vi mobile.sh
+chmod +x mobile.sh
 
-cd Task3
-./task55.sh
--uname
--name
-name
-man hostname
-hostname -a
+vi mobile.sh
+vi strreverse.sh
+vi mobile.sh
+echo hello world
+echo 'hello "world"'
+echo '"hello world"'
+echo "hello world"
+echo "hello "world""
+echo "hello /"world""
+echo "hello "/world""
+echo "hello "world"/"
+echo "hello \"world\""
+vi mobile.sh
+sh mobile.sh
+vi mobile.sh
+sh mobile.sh
+vi mobile.sh
+sh mobile.sh
+1234567890
+sh mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+wq
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+./mobile.sh
+vi mobile.sh
+a
+vi mailvalid.sh
+chown pp20145 minmax.sh
 cd
-hostname -a
-hostname -V
+cd ..
+ls
+cd
+write mr20121
+cd practise
+ls
+mail
 crontab -l
 crontab -e
+crontab -l
+ls
 history
-java
-man java
-man javac
-java -version
-clear
-git init
-git remote add origin https://github.com/suyash-badnore/LinuxTest.git
-git remote -v
-git add .
-git commit -m "first commit"
-git config --global user.email "suyashbadnore0004@gmail.com"
-git config --global user.name "suyash-badnore"
-git commit -m "first commit"
-git push origin master
-git push origin
-git push origin master
-clear
+vi mailvalid.sh
 ls
-cd Task3
-git init
-git remote add origin https://github.com/suyash-badnore/LinuxTest.git
-git remote -v
-git add .
-ls
-git commit -m "first commit"
-git push origin master
-git config --global user.name "suyash-badnore"
-git push origin master
-git config --global user.email "suyashbadnore0004@gmail.com"
-git push origin master
-git push --help
-clear
-cd
-ls
-cd SHFiles
-git init
-git remote add origin https://github.com/suyash-badnore/TestLinux.git
-git remote -v
-ls
-git add .
-git commit -m "first"
-git push origin master
-cd
-ls
-cd Task2
-ls
-cd
-cd Task3
-ls
-git init
-git remote add origin https://github.com/suyash-badnore/TestLinux.git
-git remote -v
-git add *
-git commit -m "firstone"
-git add .
-git commit -m "firstone"
-clear
-pwd
-git remote add origin https://github.com/suyash-badnore/TestLinux.git
-git add .
-git commit -m "firstone"
-git push origin
-clear
-ls
-git init
-git remote add origin https://github.com/suyash-badnore/Testi.git
-git remote -v
-exit
-cd Test3
-cd Task3
-ls
-git init
-git remote -v
-git add remote origin https://github.com/suyash-badnore/LinuxTest.git
-git remote add origin https://github.com/suyash-badnore/LinuxTest.git
-git remote -v
-git add .
-git commit -m "commit done "
-git push origin master
-javac
-ls
-cd Task3
-ls
-cd
-cd ..
-ls
-cd
-ls
-ls
-git init
-git remote -v
-git add .
-git commit -m "committed"
-git push origin
-git push origin master
-git pull
-git remote -v
-cd
-ls
-cd movable
-ls
-git init
-cd
-ls
-git init
-git remote add origin https://github.com/suyash-badnore/LinuxTest.git
-git remote add origin https://github.com/suyash-badnore/linux.git
-git add origin https://github.com/suyash-badnore/linux.git
-cd
-git init
-gir remote -v
-git remote -v
-git clone https://github.com/suyash-badnore/linux.git
-git remote -v
-git remote set-url origin https://github.com/suyash-badnore/linux.git
-git remote -v
-git add .
-git commit -m "first commit"
-git push origin master
-git config --global user.name "suyash-badnore"
-git config --global user.email "suyashbadnore0004@gmail.com"
-git push origin master
-ls
-vi github.sh
-chmod u+x github.sh
-./github.sh
-vi github.sh
-./github.sh
-ls
-cd linux
-ls
-cd
-ls
-rmdir linux
-rm linux
-rm -rf linux
-ls
-./github.sh
-history
+vi mobile1.sh
+ls -lrt
+vi alias.sh
+sudo -su pp20145
 exit
 ls
-./github.sh
-vi hellogit.sh
-chmod u+x hellogit.sh
-./hellogit.sh
-vi hellogit.sh
-ls
-history
-ls
-cd linux
-ls
-cd ..
-ls
-vi hellogit.sh
-vi hellojava.java
-javac hellojava.java
-java -version
-javap java.lang.System
-javac hellojava.java
-vi hellojava.java
-javac hellojava.java
-java hellojava
-history
-ls
-./hellogit.sh
-./github.sh
-history
-ls
-cat github.sh
-vi javagit.sh
-chmod u+x javagit.sh
-./javagit.sh
-vi javagit.sh
-./javagit.sh
-vi javagit.sh
-./javagit.sh
-vi javagit.sh
-./javagit.sh
-ls
-git init
-cat javagit.sh
-git clone https://github.com/suyash-badnore/JavaSample.git
-ls
-rm -f JavaSample
-rm -mf JavaSample
-history
-rm -rf JavaSample
-ls
-git clone https://github.com/suyash-badnore/JavaSample.git
-ls
-cd JavaSample
-ls
-cd
-vi javagit.sh
-vi javagithub.sh
-chmod u+x javagithub.sh
-./javagithub.sh
-cd classes
-ls
-clear
-./javagithub.sh
-cd
-ls
-cd classes
-clear
-cd
-ls -lrt
-git clone https://github.com/suyash-badnore/javaprogram.git
-ls
-./javagithub.sh
-cd classes
-cd javasample
-cd JavaSample
-ls
-cd
-cd javaprogram
-ls
-cd
-ls
-ls -lrt
-cd javaprogram
-ls
-cd
-vi githubjava.sh
-vi javagithub.sh
-./javagithub.sh
-cd classes
-ls -lrt
-whereis classes
-pwd
-vi javagithub.sh
-./javagithub.sh
-cd class1
-ls -a
-./javagithub.sh
-cd class1
-cd class1.bash
-ls -lrt
-cd javaprogram
-ls
-cd
-cd JavaSample
-ls
-cd
-pwq
-ped
-pwd
-ls -lrt
-cat javagit.sh
-./javagit.sh
-cd suyash
-ls
-cd class1
-ls
-cd
-./javagit.sh
-./javagithub.sh
-ls -lrt
-cd Task2
-ls
-cd
-cd Task2
-cd
-ls
-ls -l
-df
-du
-ls -l
-du
-ls -l
-df -h
-man df
-man ls
-ls -lh
-ls -h
-ls
-cd SHFiles
-vi javamultiple.sh
-chmod u+x javamultiple.sh
-./javamultiple.sh
-cd
-cd SHFiles
-ls
-cd SHFiles
-ls
-cd ..
-ls
-cd programs
-ls
-cd class
-ls
-cd SHFiles
-ls -lrt
-vi javamultiple.sh
-./javamultiple.sh
-ls
-vi javamultiple.sh
-cd SHFiles
-ls
-cd programs
-ls
-cd ..
-ls -lrt
-cd SHFiles
-ls
-ls -lrt
-cd programs
-cd class
-ls
-cat Hello.class
-man makefile
-man makefiles
-man Makefile
-wall
-man make
-cd SHFiles
-ls -l
-ls -lr
-ls -lrt
-man make
-cd SHFiles
-ls
-ls -lrt
-cd programs
-ls
-cd ..
-pwd
-cd SHFiles
-cd programs
-ls
-cd classes
-ls
-cd ..
-vi makefile
-make
-vi makefile
-make
-ls
-cd classes1
-ls
-cd ..
-ls
-vi makefile
-rm -rf classes1
-ls
-make
-ls
-cd classes1
-ls
-cd ..
-vi makefile
-make clean
-ls
-vi makefile
-cd SHFiles
-ls -l
-ls -lrt
-cd programs
-ls
-cat makefile
-cd ..
-ls -lrt
 exit
-ls -lrt
-cd SHFiles
-ls
+sudo su - ka20111
+sudo su - ks20111
+s
+cd Array
+s
+cat string.sh
+sh -x string.sh
+cat string.sh
+vi string.sh
+./string.sh
+vi string.sh
+./string.sh
+s
+cat ojast.txt
+cat ojas.txt
+cat > ojas.txt
+cat ojas.txt
+cat > ojas.txt
+cat ojas.txt
+cat >> ojas.txt
+cat ojas.txt
 cd ..
-ls
-mkdir ifelse
-ls
+a
+cd practice
+s
+cat mobile1.sh
+s
+a
+s
 ls -lrt
-cd ..
+vi adamnum.sh
+chmod +x adamnum.sh
+./adamnum.sh
+123
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+./adamnum.sh
+vi adamnum.sh
+s
+vi stepnum.sh
+vi adamnum.sh
 cd
+man tee
 ls
-mkdir IFELSE
+cat number.txt
+tee -a number.txt
+cat number.txt
+man tee
+cd practice
 ls
-rm IFELSE
-rm -rf IFELSE
+history
+vi adamnum.sh
+vi stepnum.sh
+sh stepnum.sh
+vi revEach.dh
+vi revEach.sh
+mail
+s
+cd
+s
+cat /var/spool/mail/sb20144
+s
+a
+mail
+cat /var/spool/mail/sb20144
+mail
 ls
+ls -lrt
+cd Array
+ls
+cd
+cd practice
+ls
+cat stepnum.sh
+echo "enter a String"
+read Str
+}" | wc -c
+done
+
+s
+cd ..
+chmod -R a+x practice
+cd practice
+s
+cd
+suyash
+echo suyash ojas | rev
+echo suyash ojas | rev | wc -w
+echo suyash ojas |wc -w| rev
+echo suyash ojas| rev
+echo suyash ojas| IFS=" "
+echo IFS=" " | suyash ojas
+echo 'IFS=" " | suyash ojas'
+echo IFS=" " | suyash ojas
+apropos his
+history
+a
+cd practice
+a
+vi reverse.sh
+sh reverse.sh
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh'
+vi charCount.sh
+s
+cd
+cd practice
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh
+sh charCount.sh
+vi charCount.sh
+sh charCount.sh
+cat charCount.sh
+s
+vo bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh3
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+a
+ls
+rm 0
+cat 30
+rm 30
+a
+cd ..
+chmod -R a+x practice
+cd practice
+ls
+cd
+sudo su - pp20145
+sudo su - ks20111
+sudo su - ka20118
+cd practice
+ls
+vi bubbleSort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+sh bubblesort.sh
+vi bubblesort.sh
+vi sumofarray.sh
+sh sumofarray.sh
+vi sumofarray.sh
+sh sumofarray.sh
+vi sumofarray.sh
+sh sumofarray.sh
+vi sumofarray.sh
+sh sumofarray.sh
+vi sumofarray.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh primenumber.sh
+vi primenumber.sh
+sh -x primenumber.sh
+vi primenumber.sh
+sh -x primenumber.sh
+vi primenumber.sh
+sh -x primenumber.sh
+vi primenumber.sh
+sudo su - ks20111
+a
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+sh strrama.sh
+vi strrama.sh
+a
+cd ..
+alias
+chmod -A a+x pratice
+chmod -A a+x practice
+chmod A a+x practice
+chmod a+x practice
+chmod -R a+x practice
+cd practice
+a
+cd ..
+chmod -R a+a practice
+man chmod
+cd ..
+cd practice
+cd
+cd practice
+a
+wc -l
+echo wc -l
+echo ls -lrt |wc -l
+echo ls -lrt |wc -w
+echo ls -lrt |wc -c
+echo ls -lrt |wc -l
+echo ls -l|wc -l
+echo ls|wc -l
+echo ls | wc -l
+wc -l | echo ls -lrt
+ppid
+pp id
+PPID
+echo ppid
+echo PPID
+man ppid
+man echo $PPID
+man echo $ppid
+echo $ppid
+echo $PPID
+tty
+man tty
+type ls
+type cd
+find * -type f | wc -l
+ls | wc -l
+echo ls | wc -l
+cd
+s
+find ifelse -type f|wc -l
+find ifelse -type f | wc -l
 cd ifelse
-vi t1.sh
-chmod u+x  t1.sh
-./t1.sh
-vi t1.sh
-./t1.sh
-vi t1.sh
-./t1.sh
-vi t1.sh
-./t1.sh
-vi t1.sh
-./t1.sh
-vi t1.sh
-./t1.sh
-vi t2.sh
-chmod u+x  t2.sh
-./t2.sh
-vi t3.sh
-chmod u+x  t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t5.sh
-chmod u+x  t5.sh
-./t5.sh
-vi t5.sh
-./t5.sh
-vi t5.sh
-./t5.sh
-vi t5.sh
-./t5.sh
-vi t5.sh
-./t.sh
-ls
-vi t4.sh
-chmod u+x t5.sh
-chmod u+x t4.sh
-vi t5.sh
-./t4.sh
-vi t4.sh
-./t4.sh
-./t4.sh 5
-vi t4.sh
-ls -lrt
-clear
-vi t1.sh
-./t1.sh
-vi t2.sh
-./t2.sh
-vi t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t3.sh
-./t3.sh
-vi t4.sh
-./t4.sh
-vi t5.sh
-./t5.sh
-exit
-ls -lrt
-cd SHFiles
-ls
+s
 cd ..
-ls
-stat
-cd SHFiles
-ls
-cd SHFiles
-ls
-cd ..
-cd programs
-ls
-cd
-ls -l *
-cd
-ls -lrt
-ls -l *
-ls
-cd webapp
-cd web-app
-ls
-cd DynamicProj
-ls
-cd
-ls -l *| wc -l
-stat ifelse
+ls | ec -l
+ls | wc -l
 tree
-man tree
+tree /home/sb20144/ifelse
+sudo su - ks20111
+ls -lrt
+sudo su - ks20111
 free
-tree
-tree | more
-man ls |more
-clear
+cd ..
 ls -lrt
-vi decimal.sh
-chmod u+x decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-./decimal.sh
-vi decimal.sh
-cd programs
-vi makefile
-ls
-vi makefile
-make
-make clone
-vi makefile
-make clone
-vi makefile
-make clone
-vi makefile
-make clone
-make
-Stop
-cd web-app
-ls
-cd DynamicProj
-ls
-cd WebContent
-ls
-cd WEB-INF
-ls
-cd lib
-ls
-cd
-clear
+cd rk20108
+cd 
+sudo su - rk20108
 ls -lrt
+a
 history
+cd ..s
 ls
-vi github.sh
+history
+ls | wc -l
+hey
+ak
+write ka20118
 cd
-ls
-vi makefile
-chmod u+x makefile
-make clone
-make
-vi makefile
-make
-ls
-vi makefile
-make cleanWar
-vi makefile
-make cleanWar
-ls
-make clearClasses
-ls
-make clearClasses
-ls
-vi makefile
-ls
-cd program
-ls
+find -f "prime.sh"
+find -f prime.sh
+find  prime.sh
+tree
+exit
+ping
+ping ks20111
+ping www.google.com
+host www.google.com
+ping www.google.com
+history
+history | grep "tree"
+history | grep "sh"
+history | grep "str"
+history | grep "string"
+ls -lrt
+ls | we=c -l
+ls | wc -l
 cd ..
 ls
-vi makefile
-make clearDir
-make cleardir
-make clearDir
-vi makefile
-make cleanDir
-ls
-history
-ls -l | wc -l
-ls -l * | wc -l
-exiy
+cd
+who
+who | wc -l
+cd
+sudo su - ka20118
 exit

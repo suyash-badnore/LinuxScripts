@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "Enter a string"
 read STR
 Rev=""

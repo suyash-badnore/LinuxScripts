@@ -9,3 +9,5 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+alias a="ls -lrt"
+alias s="ls"
